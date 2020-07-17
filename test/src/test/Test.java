@@ -15,9 +15,8 @@ public class Test {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-        System.out.println("conexionnnnnnnnnnn");
-        // TODO code application logic here
+  Sistema. out.println("chimbada");
+        System.out.println("conexionnnnnnnnnn");
     }
     
 }
